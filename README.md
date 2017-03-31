@@ -7,7 +7,7 @@
 
 ## 使用工具
 * 操作系统:ubuntu 16.4
-* python:2.7
-* Django:1.10
+* 编程语言:python 2.7
+* Web 框架:Django 1.10
 
 ## License
